@@ -1,0 +1,2 @@
+wsl.exe g++ -o {path_folder}/{name_file} {path_file}
+wsl.exe /usr/bin/time -f '%M %U' {path_folder}/{name_file}

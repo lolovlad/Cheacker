@@ -1,0 +1,1 @@
+wsl.exe /usr/bin/time -f '%K %U' java {path_file}
